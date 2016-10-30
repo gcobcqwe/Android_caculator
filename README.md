@@ -3,6 +3,7 @@
 This is caculator pototype. <br>
 It's only have plus , minus , times , divide , reset and ce functions.<br>
 Only two number caculate,such as 12+15 .<br>
+<br>
 functions:<br>
 <ol>
 <li>plus</li>
@@ -15,7 +16,7 @@ functions:<br>
 <br>
 
 demo:<br>
-![](http://imgur.com/lOQMIA0)
+![](http://imgur.com/lOQMIA0.png)
 
 #Environment
 This project depends on the following modules, please make sure they're ready locally.
