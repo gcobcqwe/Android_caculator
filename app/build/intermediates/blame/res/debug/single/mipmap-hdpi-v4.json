@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jim/Desktop/Caculators1/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jim/Desktop/Caculators1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jim/Desktop/android/Caculators/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jim/Desktop/android/Caculators/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
