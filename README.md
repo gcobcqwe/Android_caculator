@@ -1,9 +1,9 @@
 # Android_caculator
 
 This is caculator pototype. <br>
-It's only have plus , minus , times , divide , reset and ce functions.
-Only two number caculate,such as 12+15 .
-
+It's only have plus , minus , times , divide , reset and ce functions.<br>
+Only two number caculate,such as 12+15 .<br>
+functions:<br>
 <ol>
 <li>plus</li>
 <li>minus</li>
@@ -15,7 +15,7 @@ Only two number caculate,such as 12+15 .
 <br>
 
 demo:<br>
-![](http://imgur.com/lOQMIA0.png)
+![](http://imgur.com/lOQMIA0)
 
 #Environment
 This project depends on the following modules, please make sure they're ready locally.
